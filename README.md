@@ -24,7 +24,12 @@ This repository is also going to double as an example of a basic repo, so you sh
 - `.gitignore`: these files will not be pushed to the master repo.
 
 ## Installation guidelines
-tba
+### Prerequisites
+Please have [Git](https://git-scm.com/) downloaded (see [here](https://github.com/ossm-cs/resources/blob/master/guides/git.md)).
+
+Google Chrome is recommended.
+### Download & install
+more info tba
 
 ## Authors
 Computer Science Interest Group, OSSM, Oklahoma City, OK.
