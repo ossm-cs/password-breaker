@@ -5,6 +5,9 @@ This repository is designed to be a *very* simple demonstration of
 
 While this could *technically* be used to break someone's password, even such a basic defence as a CAPTCHA should render this ineffective.
 
+## Instructions
+After you clone this repo, go through the folders in order. There should be more information there.
+
 ## Structure
 This repository is also going to double as an example of a basic repo, so you should take note of the file structure.
 
